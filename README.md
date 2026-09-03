@@ -36,6 +36,7 @@ FUTURE_DS_02/
 ├── task2_Churn.py            # Python analysis script
 ├── task2_churn_dashboard.png  # Generated dashboard visualization
 └── README.md                 # Project documentation
+```
 
 ---
 
@@ -44,6 +45,7 @@ FUTURE_DS_02/
 ```bash
 # 1. Clone the repository
 git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/FUTURE_DS_02.git)
+```
 
 # 2. Navigate to project directory
 cd FUTURE_DS_02
