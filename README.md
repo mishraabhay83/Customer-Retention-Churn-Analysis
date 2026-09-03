@@ -53,11 +53,11 @@ cd FUTURE_DS_02
 ---
 
 ## ⚙️ Install required libraries:
-pip install pandas numpy matplotlib seaborn
+**pip install pandas numpy matplotlib seaborn**
 
 ---
 
 ## 🚀 Run the churn analysis script:
-python task2_Churn.py
+**python task2_Churn.py**
 
 
