@@ -43,15 +43,25 @@ FUTURE_DS_02/
 ## 🚀 How to Run the Project
 
 ```bash
-# 1. Clone the repository
+# 1. **Clone the repository:**
 git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/FUTURE_DS_02.git)
 ```
 
-# 2. Navigate to project directory
+# 2. Navigate to project directory:
 cd FUTURE_DS_02
 
-# 3. Install required libraries
+---
+
+# 3. Install required libraries:
 pip install pandas numpy matplotlib seaborn
 
-# 4. Run the churn analysis script
+---
+
+# 4. Run the churn analysis script:
 python task2_Churn.py
+
+---
+
+📈 Key Insights & Deliverables
+Churn Patterns: Identified high-risk user segments based on activity and subscription types.
+Dashboard: Visual representation of key metrics saved as task2_churn_dashboard.png.
