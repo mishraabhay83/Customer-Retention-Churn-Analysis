@@ -47,21 +47,17 @@ FUTURE_DS_02/
 git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/FUTURE_DS_02.git)
 ```
 
-## Navigate to project directory:
+## 📂 Navigate to project directory:
 cd FUTURE_DS_02
 
 ---
 
-## Install required libraries:
+## ⚙️ Install required libraries:
 pip install pandas numpy matplotlib seaborn
 
 ---
 
-## Run the churn analysis script:
+## 🚀 Run the churn analysis script:
 python task2_Churn.py
 
----
 
-📈 Key Insights & Deliverables
-Churn Patterns: Identified high-risk user segments based on activity and subscription types.
-Dashboard: Visual representation of key metrics saved as task2_churn_dashboard.png.
