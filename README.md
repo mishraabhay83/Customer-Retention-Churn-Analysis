@@ -47,17 +47,17 @@ FUTURE_DS_02/
 git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/FUTURE_DS_02.git)
 ```
 
-# 2. Navigate to project directory:
+## Navigate to project directory:
 cd FUTURE_DS_02
 
 ---
 
-# 3. Install required libraries:
+## Install required libraries:
 pip install pandas numpy matplotlib seaborn
 
 ---
 
-# 4. Run the churn analysis script:
+## Run the churn analysis script:
 python task2_Churn.py
 
 ---
