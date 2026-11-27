@@ -19,7 +19,7 @@ Customer churn is a critical KPI for subscription services. This project identif
 ---
 
 ## 📊 Visual Dashboard
-![Customer Churn Dashboard](task2_churn_dashboard.png)
+![Customer Churn Dashboard](churn_dashboard.png)
 
 ---
 
@@ -32,9 +32,9 @@ Customer churn is a critical KPI for subscription services. This project identif
 
 ## 📁 Repository Structure
 ```text
-FUTURE_DS_02/
-├── task2_Churn.py            # Python analysis script
-├── task2_churn_dashboard.png  # Generated dashboard visualization
+Customer Retention & Churn Analysis
+├── Churn.py            # Python analysis script
+├── churn_dashboard.png  # Generated dashboard visualization
 └── README.md                 # Project documentation
 ```
 
@@ -44,12 +44,12 @@ FUTURE_DS_02/
 
 ```bash
 # 1. **Clone the repository:**
-git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/FUTURE_DS_02.git)
+git clone [https://github.com/mishraabhay83/FUTURE_DS_02.git](https://github.com/mishraabhay83/Customer Retention & Churn Analysis.git)
 ```
 
 ## 📂 Navigate to project directory:
 ```bash
-cd FUTURE_DS_02
+cd Customer Retention & Churn Analysis
 ```
 
 ---
@@ -63,7 +63,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## 🚀 Run the churn analysis script:
 ```bash
-python task2_Churn.py
+python Churn.py
 ```
 
 
